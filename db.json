@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Atul Singh",
+      "email": "atul@gmail.com",
+      "phone": "9878757787",
+      "active": true
+    },
+    {
+      "name": "Atul Singh",
+      "email": "controlatul@gmail.com",
+      "phone": "3545667",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "Vinsmoke sanji",
+      "email": "atulsingh.cap@gmail.com",
+      "phone": "8303071966",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
