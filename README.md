@@ -1,8 +1,8 @@
-# React + Vite
+To run this project follow these simple steps.
+1. Clone this repo in your system of download the file and open it in your system.
+2. Run npm install vite@latest in terminal
+3. Run npm install in terminal
+4. To run this project in server, type npm run dev in terminal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Description:
+This application is created to store the basic details of your companiy employees or the workers of your venture.
